@@ -1,0 +1,26 @@
+git version 2.44.0
+user.name=Ivan Ivanov
+user.email=my_email@example.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=git@github.com:gitohmy/origin.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+remote.gitok.url=git@github.com:damirastana/origin.git
+remote.gitok.fetch=+refs/heads/*:refs/remotes/gitok/*
+branch.master.remote=hello
+branch.master.merge=refs/heads/master
+remote.new_lesson.url=git@github.com:gitohmy/git_lesson.git
+remote.new_lesson.fetch=+refs/heads/*:refs/remotes/new_lesson/*
+remote.hello.url=git@github.com:gitohmy/git_lesson.git
+remote.hello.fetch=+refs/heads/*:refs/remotes/hello/*
+Текущая ветка: master
+Эта ветка соответствует «hello/master».
+
+Неотслеживаемые файлы:
+  (используйте «git add <файл>...», чтобы добавить в то, что будет включено в коммит)
+	git_version_report.txt
+
+индекс пуст, но есть неотслеживаемые файлы
+(используйте «git add», чтобы проиндексировать их)
